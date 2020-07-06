@@ -5,11 +5,11 @@ with open("README.md", "r") as fh:
 
 setup(
     name='R07',
-    version='0.0.1',
+    version='0.0.2',
     description='Packages of R-07!',
     url="https://github.com/rahulbordoloi/PyPI-Publish",
     author="Rahul Bordoloi",
-    author_email="rahulbordoloi24@gmail.com",
+    author_email="mail@rahulbordoloi.me",
 
     py_modules=['R07'],
     package_dir={'': 'src'},
@@ -28,6 +28,7 @@ setup(
 
     install_requires = [
         "blessings ~= 1.7",
+        "pytube3 ~= 9.6.4",
     ],
 
     extras_require = {

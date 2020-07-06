@@ -1,0 +1,15 @@
+atomicwrites==1.4.0
+attrs==19.3.0
+blessings==1.7
+colorama==0.4.3
+more-itertools==8.4.0
+packaging==20.4
+pluggy==0.13.1
+py==1.9.0
+pyparsing==2.4.7
+pytest==5.4.3
+pytube3==9.6.4
+-e git+https://github.com/rahulbordoloi/PyPI-Publish.git@333d0b1ff858a5a63429f3d6ff722b63d654a599#egg=R07
+six==1.15.0
+typing-extensions==3.7.4.2
+wcwidth==0.2.5

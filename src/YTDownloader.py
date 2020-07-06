@@ -1,19 +1,3 @@
-### ----------- Module 1 ----------- ###
-
-# Hello World
-
-def say_hello(name = None):
-    if name is None:
-        return "Hello R-07!"
-    else:
-        return f"Hello, {name}!"
-
-### ------------ END 1 ------------- ###
-
-### ----------- Module 2 ----------- ###
-
-# Youtube Downloader
-
 # Libraries
 
 import os
@@ -50,15 +34,12 @@ def yt_down(url):
 
 # Input
 
-def YTDownloader(url = None):
+def YTDown(url = None):
     if url is None:
         print("Enter the Youtube URL of the Video you want to Download : ")
         url = input()
         yt_down(url)
     else:
-        yt_down(url)
-
-### ------------ END 2 ------------- ###
+        yt_down(url) 
     
     
-
