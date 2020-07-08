@@ -4,10 +4,13 @@
 ![Test passing](https://img.shields.io/badge/Tests-passing-brightgreen.svg)
 ![Python Version](https://img.shields.io/badge/python-3.x-brightgreen.svg)
 [![PyPI version](https://badge.fury.io/py/R07.svg)](https://badge.fury.io/py/R07)
+![](https://img.shields.io/pypi/dm/R07?color=green&label=pypi-downloads&style=flat-square)
+![](https://img.shields.io/github/last-commit/rahulbordoloi/pypi-publish?style=flat-square)
+[![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 ## About
 
-This Package contains all the Modules developed by @rahulbordoloi published to PyPI.
+This Package contains all the Modules developed by [@rahulbordoloi](https://github.com/rahulbordoloi) published to PyPI.
 
 All the classes will be imported under the package `R07`.
 
@@ -48,6 +51,7 @@ YTDownloader('https://youtu.be/xl8zdCY-abw')
 Note : 
 1. Calling `YTDownloader()` without arguments prompts you to enter the URL after you call it. <br>
 2. The File will get downloaded in your current working directory. <br>
+3. For more information, refer to my repository [Youtube-Video-Downloader](https://github.com/rahulbordoloi/Youtube-Video-Downloader.git)
 
 ## Outputs
 
@@ -120,3 +124,6 @@ $ pip install -e .[dev]
 Name : Rahul Bordoloi <br>
 Website : https://rahulbordoloi.me <br>
 Email : mail@rahulbordoloi.me <br>
+
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/rahulbordoloi/)

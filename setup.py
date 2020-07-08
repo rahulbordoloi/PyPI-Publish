@@ -5,8 +5,8 @@ with open("README.md", "r") as fh:
 
 setup(
     name='R07',
-    version='0.0.2',
-    description='Packages of R-07!',
+    version='0.0.3',
+    description='Utlity Packages Developed by R-07!',
     url="https://github.com/rahulbordoloi/PyPI-Publish",
     author="Rahul Bordoloi",
     author_email="mail@rahulbordoloi.me",
@@ -21,6 +21,9 @@ setup(
         "Programming Language :: Python :: 3.8",
         "Operating System :: OS Independent",
         "License :: OSI Approved :: MIT License",
+        "Topic :: Utilities",
+        "Natural Language :: English",
+        "Development Status :: 5 - Production/Stable"
     ],
 
     long_description = long_description,
