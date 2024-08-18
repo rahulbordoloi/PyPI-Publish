@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name='R07',
-    version='0.0.3',
+    version='0.0.3.1',
     description='Utlity Packages Developed by R-07!',
     url="https://github.com/rahulbordoloi/PyPI-Publish",
     author="Rahul Bordoloi",
